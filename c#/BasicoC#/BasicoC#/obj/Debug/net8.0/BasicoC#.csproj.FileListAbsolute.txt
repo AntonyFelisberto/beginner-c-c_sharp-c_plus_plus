@@ -1,0 +1,15 @@
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\bin\Debug\net8.0\BasicoC#.exe
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\bin\Debug\net8.0\BasicoC#.deps.json
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\bin\Debug\net8.0\BasicoC#.runtimeconfig.json
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\bin\Debug\net8.0\BasicoC#.dll
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\bin\Debug\net8.0\BasicoC#.pdb
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.AssemblyInfoInputs.cache
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.AssemblyInfo.cs
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.csproj.CoreCompileInputs.cache
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.sourcelink.json
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.dll
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\refint\BasicoC#.dll
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.pdb
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\BasicoC#.genruntimeconfig.cache
+F:\github\beginner-c-c_sharp-c_plus_plus\c#\BasicoC#\BasicoC#\obj\Debug\net8.0\ref\BasicoC#.dll
